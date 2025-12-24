@@ -12,3 +12,6 @@ This project focuses on detecting fraudulent transactions for e-commerce and ban
 ## Setup Instructions
 1. Install dependencies: `pip install -r requirements.txt`
 2. Explore the analysis in `notebooks/`.
+
+## Interim-2: Modeling.
+In this stage, I implemented Random Forest and XGBoost models. I used SMOTE to handle the imbalanced nature of the fraud data. My best model achieved a Recall of [Insert your number here
